@@ -14,4 +14,3 @@ Now you can run your local server:
 npm start
 ```
 
-This example is based on [Material UI](https://github.com/callemall/material-ui) Gulp example.
