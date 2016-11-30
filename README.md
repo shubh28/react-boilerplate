@@ -1,8 +1,17 @@
-# react-boilerplate
-A react starter project with babel and webpack configured.
+# [Gulp, React, Babel, Browserify, Browser-Sync](https://github.com/n0m0r3pa1n/babel_browserify_gulp_react_template) - Example Project
 
-To run the project run:
+Auto rebuilds project when you make changes and reloads the browser page.
 
-1. npm run dev.
-2. npm start.
+## Installation
+After cloning the repository, install dependencies:
+```
+cd <project folder>
+npm install
+```
 
+Now you can run your local server:
+```
+npm start
+```
+
+This example is based on [Material UI](https://github.com/callemall/material-ui) Gulp example.
